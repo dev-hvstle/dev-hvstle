@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" src="https://w.wallhaven.cc/full/yj/wallhaven-yjdl2k.png">
 
 <div width="1000">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=f8dc3d&width=1000&lines=Hi!+I'm,+Harvey;Blockchain;Backend;APIs;You+name+it..." alt="Typing SVG" />
+<img align="center" width="1000" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=f8dc3d&width=1000&lines=Hi!+I'm,+Harvey;Blockchain;Backend;APIs;You+name+it..." alt="Typing SVG" />
 </div>
 
 
