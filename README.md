@@ -1,6 +1,9 @@
+<img align="center" alt="Coding" width="1000" src="https://w.wallhaven.cc/full/yj/wallhaven-yjdl2k.png">
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=f8dc3d&width=600&lines=Hi,+I'm,+Harvey;Blockchain;Backend;APIs;You+name+it..." alt="Typing SVG" /></a>
 
 
-🔭 I’m currently working on <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=f8dc3d&width=500&lines=The+Howdy+Studios;Honest+Farmer+Club" alt="Typing SVG" /></a><br><br>🌱 I’m currently learning Go Lang, Rust, Express, AWS, && GraphQL<br><br>💬 Ask me about Solidity, Hardhat, Blockchain, && Back-end stuff<br><br>📫 How to reach me hvstle.dev@gmail.com
+🔭 I’m currently working on The Howdy Studios<br><br>🌱 I’m currently learning Go Lang, Rust, Express, AWS, && GraphQL<br><br>💬 Ask me about Solidity, Hardhat, Blockchain, && Back-end stuff<br><br>📫 How to reach me hvstle.dev@gmail.com
 
 
 ## 🌐 Socials:
